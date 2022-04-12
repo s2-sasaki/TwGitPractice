@@ -1,1 +1,1 @@
-TwGitPractice
+Git練習用のリポジトリです

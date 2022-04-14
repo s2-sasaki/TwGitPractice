@@ -1,4 +1,3 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
-Console.WriteLine("New Remote Repos / 'develop' branch");
-Console.WriteLine("Commit -> develop branch");
+Console.WriteLine("New 'develop' branch");

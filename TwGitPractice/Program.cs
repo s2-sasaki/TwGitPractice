@@ -2,3 +2,4 @@
 Console.WriteLine("Hello, World!");
 Console.WriteLine("New 'develop' branch");
 Console.WriteLine("New 'feature-komori' branch");
+Console.WriteLine("New 'feature-komori2' branch");

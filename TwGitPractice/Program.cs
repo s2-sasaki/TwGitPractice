@@ -9,3 +9,5 @@ Console.WriteLine("feature-2 commit 2");
 Console.WriteLine("feature-2 commit 3");
 Console.WriteLine("feature-3 / new branch");
 Console.WriteLine("Pull Request Canceled");
+Console.WriteLine("Pull Request Canceled2");
+Console.WriteLine("Pull Request Canceled3");
